@@ -4,9 +4,9 @@
 [<img src="https://img.shields.io/badge/DB2-052FAD?style=flat-square&logo=ibm&logoColor=white"/>](#)
 [<img src="https://img.shields.io/badge/11g-F80000?style=flat-square&logo=oracle&logoColor=white"/>](#)
 
-* Software development and project management
-* Global core-banking. Especially financial telecommunication and clearing for domestic transfer
-* Digital banking service at Asia
+* Strength: Domestic remittance and clearing, ISO 8583
+* Experience: Bank teller with retail finance service
+* Domain knowledge: All about banking servcie, SW and Infra
 
 ## Side
 [<img src="https://img.shields.io/badge/Csharp 4.0-239120?style=flat-square&logo=csharp&logoColor=white"/>](#)
@@ -22,9 +22,10 @@
 
 # Interested
 * Economics, business model and stock valuation (Love old school)
+* Learn the programming language; rust and zig (Recently)
 * Game programming
 
-# Contact
+# Social
 [<img src="https://img.shields.io/badge/im--davidjung-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/>](https://www.linkedin.com/in/im-davidjung/)
 [<img src="https://img.shields.io/badge/david.im-eb531f?style=flat-square&logo=Tistory&logoColor=white"/>](https://davidim.tistory.com)
 
